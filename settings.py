@@ -1,0 +1,1 @@
+WORK_FOLDER_PATH = 'C:/Users/GOD/Desktop/практикум/2'
